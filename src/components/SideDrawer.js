@@ -13,8 +13,28 @@ const SideDrawer = (props)=> {
             <List component="nav">
                 <ListItem 
                     button 
-                    onClick={()=>{alert("gllsd")}}>
+                    onClick={() => { alert("Event Starts In")}}>
                         Event Starts In
+                </ListItem>
+                <ListItem 
+                    button 
+                    onClick={()=>{ alert("Venue Info")}}>
+                        Venue Info
+                </ListItem>
+                <ListItem 
+                    button 
+                    onClick={() => { alert("Highlights")}}>
+                        Highlights
+                </ListItem>
+                <ListItem 
+                    button 
+                    onClick={() => { alert("Pricing")}}>
+                        Pricing
+                </ListItem>
+                <ListItem 
+                    button 
+                    onClick={() => { alert("Location")}}>
+                        Location
                 </ListItem>
             </List>
         </Drawer>
