@@ -5,6 +5,7 @@ import './resources/styles.css'
 import Featured from './components/featured'
 import VenueInfo from './components/venueInfo'
 import Highlight from './components/highlights'
+import Pricing from './components/pricing'
 
 const App = ()=> {
   return (
@@ -13,6 +14,7 @@ const App = ()=> {
       <Featured/>
       <VenueInfo/>
       <Highlight/>
+      <Pricing/>
     </div>
   );
 }
