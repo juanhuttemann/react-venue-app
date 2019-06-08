@@ -7,6 +7,7 @@ import VenueInfo from './components/venueInfo'
 import Highlight from './components/highlights'
 import Pricing from './components/pricing'
 import Location from './components/location'
+import Footer from './components/footer'
 
 const App = ()=> {
   return (
@@ -17,6 +18,7 @@ const App = ()=> {
       <Highlight/>
       <Pricing/>
       <Location/>
+      <Footer/>
     </div>
   );
 }
