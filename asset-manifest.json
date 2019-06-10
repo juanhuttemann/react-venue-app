@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/react-venue/static/css/main.d6fa7445.chunk.css",
-    "main.js": "/react-venue/static/js/main.d1010890.chunk.js",
-    "main.js.map": "/react-venue/static/js/main.d1010890.chunk.js.map",
-    "runtime~main.js": "/react-venue/static/js/runtime~main.739eada5.js",
-    "runtime~main.js.map": "/react-venue/static/js/runtime~main.739eada5.js.map",
-    "static/js/2.148859d7.chunk.js": "/react-venue/static/js/2.148859d7.chunk.js",
-    "static/js/2.148859d7.chunk.js.map": "/react-venue/static/js/2.148859d7.chunk.js.map",
-    "index.html": "/react-venue/index.html",
-    "precache-manifest.19c12e234436c11144f40e69ad162831.js": "/react-venue/precache-manifest.19c12e234436c11144f40e69ad162831.js",
-    "service-worker.js": "/react-venue/service-worker.js",
-    "static/css/main.d6fa7445.chunk.css.map": "/react-venue/static/css/main.d6fa7445.chunk.css.map",
-    "static/media/slide_one.jpg": "/react-venue/static/media/slide_one.84753208.jpg",
-    "static/media/slide_three.jpg": "/react-venue/static/media/slide_three.9aa09a50.jpg",
-    "static/media/slide_two.jpg": "/react-venue/static/media/slide_two.3a3ffd36.jpg"
+    "main.css": "/react-venue-app/static/css/main.d6fa7445.chunk.css",
+    "main.js": "/react-venue-app/static/js/main.d1010890.chunk.js",
+    "main.js.map": "/react-venue-app/static/js/main.d1010890.chunk.js.map",
+    "runtime~main.js": "/react-venue-app/static/js/runtime~main.738bfb20.js",
+    "runtime~main.js.map": "/react-venue-app/static/js/runtime~main.738bfb20.js.map",
+    "static/js/2.148859d7.chunk.js": "/react-venue-app/static/js/2.148859d7.chunk.js",
+    "static/js/2.148859d7.chunk.js.map": "/react-venue-app/static/js/2.148859d7.chunk.js.map",
+    "index.html": "/react-venue-app/index.html",
+    "precache-manifest.8d7fb301ebf144425f8a54473e5e4386.js": "/react-venue-app/precache-manifest.8d7fb301ebf144425f8a54473e5e4386.js",
+    "service-worker.js": "/react-venue-app/service-worker.js",
+    "static/css/main.d6fa7445.chunk.css.map": "/react-venue-app/static/css/main.d6fa7445.chunk.css.map",
+    "static/media/slide_one.jpg": "/react-venue-app/static/media/slide_one.84753208.jpg",
+    "static/media/slide_three.jpg": "/react-venue-app/static/media/slide_three.9aa09a50.jpg",
+    "static/media/slide_two.jpg": "/react-venue-app/static/media/slide_two.3a3ffd36.jpg"
   }
 }
